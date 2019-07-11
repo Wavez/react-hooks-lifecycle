@@ -17,11 +17,9 @@ I wanted to have a diagram exactly like that but for react 16.8.x hooks - so I k
 ## Further reading
 - [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
 
-- https://stackoverflow.com/questions/53214465/how-to-use-lifecycle-methods-with-hooks-in-react
-
 - [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
 ---
-Feel free to edit, raise issues and share.
+Feel free to edit, correct, open issues and use.
 
 Made with ❤ by Gal Margalit
 
