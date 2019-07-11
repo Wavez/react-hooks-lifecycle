@@ -16,7 +16,7 @@ The graph is made using [draw.io](https://draw.io)**
 ---
 Feel free to edit, raise issues and share.
 
-Made with <3 by Gal Margalit
+Made with ❤ by Gal Margalit
 
 
 
