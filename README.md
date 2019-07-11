@@ -1,4 +1,4 @@
-# React hooks lifecycle
+# React hooks lifecycle <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">
 view the interactive diagram here:
 ### https://wavez.github.io/react-hooks-lifecycle/
 
