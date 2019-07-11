@@ -2,8 +2,13 @@
 
 
 **view the interactive diagram here:**
-### <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">https://wavez.github.io/react-hooks-lifecycle/
-
+<h2>
+  <a href="https://wavez.github.io/react-hooks-lifecycle/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"/> 
+  wavez.github.io/react-hooks-lifecycle
+ </a> 
+<h2>
+  
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
 **I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and the latter [diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" class components.
