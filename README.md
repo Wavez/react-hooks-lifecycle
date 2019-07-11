@@ -1,11 +1,11 @@
 # React hooks lifecycle
-view the interactive graph here:
+view the interactive diagram here:
 ### https://wavez.github.io/react-hooks-lifecycle/
 
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
-**I made this graph following [Dan Abramov's tweet about the lifecycle of (the now "old") class components](https://twitter.com/dan_abramov/status/981712092611989509) and kept its style for familiraty.
-The graph is made using [draw.io](https://draw.io)**
+**I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and the latter [diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of (the now "old") class components and kept its style for familiraty.
+The diagram is made using [draw.io](https://draw.io)**
 
 ## Further reading
 - [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
