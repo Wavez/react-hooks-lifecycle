@@ -1,5 +1,5 @@
 # React hooks lifecycle
-view the interactive graph here
+view the interactive graph here:
 ### https://wavez.github.io/react-hooks-lifecycle/
 
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
