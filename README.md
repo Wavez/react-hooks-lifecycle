@@ -4,7 +4,7 @@ view the interactive graph here:
 
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
-**I made this graph following [Dan Abramov's tweet about the "old" lifecycle of class components](https://twitter.com/dan_abramov/status/981712092611989509) and kept its style for familiraty.
+**I made this graph following [Dan Abramov's tweet about the lifecycle of (the now "old") class components](https://twitter.com/dan_abramov/status/981712092611989509) and kept its style for familiraty.
 The graph is made using [draw.io](https://draw.io)**
 
 ## Further reading
