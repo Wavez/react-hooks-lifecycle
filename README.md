@@ -1,11 +1,10 @@
 # React hooks lifecycle
 
 
-**view the interactive diagram here:**
 <h2>
   <a href="https://wavez.github.io/react-hooks-lifecycle/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"/> 
-  wavez.github.io/react-hooks-lifecycle
+  <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"/> 
+  view the interactive diagram here
  </a> 
 </h2>
   
