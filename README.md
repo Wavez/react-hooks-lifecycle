@@ -6,8 +6,8 @@ view the interactive graph here https://wavez.github.io/react-hooks-lifecycle/
 I made this graph following [Dan Abramov's tweet about the "old" lifecycle of class components](https://twitter.com/dan_abramov/status/981712092611989509) and kept its style for familiraty.
 The graph is made using [draw.io](https://draw.io)
 
-### further knowledge
-[how lifecycle methods correspond to hooks (react documentation)](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
+### Further reading
+[how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
 
 https://stackoverflow.com/questions/53214465/how-to-use-lifecycle-methods-with-hooks-in-react
 
