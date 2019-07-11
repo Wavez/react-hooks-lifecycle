@@ -13,7 +13,7 @@ https://stackoverflow.com/questions/53214465/how-to-use-lifecycle-methods-with-h
 
 [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
 
-Feel free to edit, raise issue and share.
+Feel free to edit, raise issues and share.
 
 Made with <3 by Gal Margalit
 
