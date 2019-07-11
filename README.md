@@ -4,7 +4,8 @@ view the interactive diagram here:
 
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
-**I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and the latter [diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of (the now "old") class components and kept its style for familiraty.
+**I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and the latter [diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" class components.
+I wanted to have a diagram exactly like that but for hooks - so I kept the style for familiraty.
 The diagram is made using [draw.io](https://draw.io)**
 
 ## Further reading
