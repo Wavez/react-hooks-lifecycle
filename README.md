@@ -1,7 +1,5 @@
-<h1>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60"/>
-  React hooks lifecycle
-</h1>
+# React hooks lifecycle
+
 
 **view the interactive diagram here:**
 ### https://wavez.github.io/react-hooks-lifecycle/
