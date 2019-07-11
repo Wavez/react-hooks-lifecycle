@@ -7,11 +7,11 @@ I made this graph following [Dan Abramov's tweet about the "old" lifecycle of cl
 The graph is made using [draw.io](https://draw.io)
 
 ### Further reading
-[how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
+- [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
 
-https://stackoverflow.com/questions/53214465/how-to-use-lifecycle-methods-with-hooks-in-react
+- https://stackoverflow.com/questions/53214465/how-to-use-lifecycle-methods-with-hooks-in-react
 
-[Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
+- [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
 
 Feel free to edit, raise issues and share.
 
