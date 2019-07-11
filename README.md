@@ -7,7 +7,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"/> 
   wavez.github.io/react-hooks-lifecycle
  </a> 
-<h2>
+</h2>
   
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
