@@ -9,8 +9,10 @@ React hooks lifecycle
 I wanted to have a diagram exactly like that but for react 16.8.x hooks - so I kept the style for familiraty.**
 
 **The diagram is made using [draw.io](https://draw.io) and is easily editable through its GUI**
+<a href="https://wavez.github.io/react-hooks-lifecycle">
+  <img src="https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.png" />
+</a>
 
-![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.png)
 
 ## Further reading
 - [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
