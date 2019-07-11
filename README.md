@@ -7,7 +7,6 @@ view the interactive graph here:
 **I made this graph following [Dan Abramov's tweet about the "old" lifecycle of class components](https://twitter.com/dan_abramov/status/981712092611989509) and kept its style for familiraty.
 The graph is made using [draw.io](https://draw.io)**
 
----
 ## Further reading
 - [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
 
