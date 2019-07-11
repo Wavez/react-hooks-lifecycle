@@ -2,7 +2,7 @@
 
 
 **view the interactive diagram here:**
-### https://wavez.github.io/react-hooks-lifecycle/
+### <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">https://wavez.github.io/react-hooks-lifecycle/
 
 ![react hooks lifecycle](https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.svg)
 
