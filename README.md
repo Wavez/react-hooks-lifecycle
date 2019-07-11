@@ -1,4 +1,7 @@
-# React hooks lifecycle <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48">
+<h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48"/>
+  React hooks lifecycle
+</h1>
 view the interactive diagram here:
 ### https://wavez.github.io/react-hooks-lifecycle/
 
@@ -7,7 +10,7 @@ view the interactive diagram here:
 **I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and the latter [diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" class components.
 I wanted to have a diagram exactly like that but for hooks - so I kept the style for familiraty.**
 
-**The diagram is made using [draw.io](https://draw.io) and is easily editable through a GUI**
+**The diagram is made using [draw.io](https://draw.io) and is easily editable through its GUI**
 
 ## Further reading
 - [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
