@@ -22,4 +22,6 @@ The diagram is made using [draw.io](https://draw.io) and is easily editable thro
 - [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
  
 ---
-Feel free to edit, correct, open issues and use. Made with ❤ by Gal Margalit
+Feel free to edit, correct, open issues and use.
+
+Made with ❤ by Gal Margalit
