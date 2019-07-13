@@ -17,7 +17,7 @@ The diagram is made using [draw.io](https://draw.io) and is easily editable thro
 ## Further reading
 - [Blog post about this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)
 
-- [how lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
+- [How lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
 
 - [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
  
