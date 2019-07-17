@@ -1,5 +1,5 @@
 <h1>
-React hooks lifecycle
+React lifecycle hooks
 </h1>
 
 
