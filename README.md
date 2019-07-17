@@ -10,7 +10,7 @@ Functional Components visualized
 **[View the interactive diagram here](https://wavez.github.io/react-hooks-lifecycle/)**  
 
 I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and its latter react [implementation](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" 👴 Class Components.
-I wanted to have a diagram exactly like that but for react 16.8.x hooks - so I kept the style for familiraty.  
+I wanted to have a diagram exactly like that but for react 16.8.x hooks - so... I made one! and kept the style for familiraty.  
 
 The diagram is made using [draw.io](https://draw.io) and is easily editable through its GUI  
 I will update the diagram accordingly when react will introduce more new hooks, as they intend.
