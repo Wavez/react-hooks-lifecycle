@@ -15,7 +15,7 @@ I wanted to have a diagram exactly like that but for react 16.8.x hooks - so... 
 The diagram is made using [draw.io](https://draw.io) and is easily editable through its GUI  
 I will update the diagram accordingly when react will introduce more new hooks, as they intend.
 <a href="https://wavez.github.io/react-hooks-lifecycle">
-  <img src="https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/chart.png" />
+  <img src="https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/thumbnail.png" />
 </a>
 
 
