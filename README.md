@@ -1,5 +1,5 @@
 <h1>
-⚛️React lifecycle Hooks
+React lifecycle Hooks⚛️📈📊
   <h3>
 Functional Components visualized
   </h3>
