@@ -1,5 +1,5 @@
 <h1>
-React lifecycle Hooks⚛️
+React lifecycle Hooks ⚛️
   <h3>
 Functional Components visualized
   </h3>
@@ -27,6 +27,6 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 - [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
  
 ---
-Feel free to edit, correct, open issues and use.
+Feel free to edit, contribute and share.
 
 Made with ❤ by Gal Margalit
