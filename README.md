@@ -1,7 +1,7 @@
 <h1>
-React lifecycle Hooks ⚛️ ⏳ ⏲
+React lifecycle Hooks diagram ⚛️ ⏳ ⏲
   <h3>
-Functional Components visualized
+Functional components lifecycle explained
   </h3>
 </h1>
 
