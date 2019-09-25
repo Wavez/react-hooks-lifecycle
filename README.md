@@ -1,6 +1,6 @@
-![react versions supported](https://img.shields.io/badge/React%20versions%3A-16.8.x%2C%2016.9.x-green "React versions supported")
+[![react versions supported](https://img.shields.io/badge/React%20versions%3A-16.8.x%2C%2016.9.x-green "React versions supported")]()
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
-![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20Me&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20Me&style=social)](https://twitter.com/MargalitGal)
 
 <h1>
 React lifecycle Hooks diagram ⚛️ ⏳ ⏲
