@@ -2,16 +2,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20Me&style=social)](https://twitter.com/MargalitGal)
 
-<h1>
-React lifecycle Hooks diagram ⚛️ ⏳ ⏲
-  <h3>
-Functional components lifecycle explained
-  </h3>
-</h1>
-
-
-
+# React lifecycle Hooks diagram ⚛️ ⏳ ⏲ #
 ## [View the interactive diagram here](https://wavez.github.io/react-hooks-lifecycle/) ##
+### Functional components lifecycle explained ###
 
 I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and its latter react [implementation](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" 👴 Class Components.
 I wanted to have a diagram exactly like that but for react 16.8.x hooks - so... I made one! and kept the style for familiraty.  
