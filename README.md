@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
 
-# React lifecycle Hooks diagram ⚛️ ⏳ ⏲ #
+# React Hooks Lifecycle Diagram ⚛️ ⏳ ⏲ #
 ## [View the interactive diagram here](https://wavez.github.io/react-hooks-lifecycle/) ##
 ### Functional components lifecycle explained ###
 
@@ -18,12 +18,8 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 
 
 ## Further reading
-- [Blog post about this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)
+- [Blog post about this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
 
-- [How lifecycle methods correspond to hooks](https://reactjs.org/docs/hooks-faq.html#how-do-lifecycle-methods-correspond-to-hooks)
-
-- [Under the hood of react's hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
- 
 ---
 Feel free to edit, contribute and share.
 
