@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
 
-# React lifecycle Hooks diagram ⚛️ ⏳ ⏲ #
+# React Hooks Lifecycle Diagram ⚛️ ⏳ ⏲ #
 ## [View the interactive diagram here](https://wavez.github.io/react-hooks-lifecycle/) ##
 ### Functional components lifecycle explained ###
 
