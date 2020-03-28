@@ -1,5 +1,5 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
-[![react versions supported](https://img.shields.io/badge/React%20versions%3A-Latest%2C%2016.9.x%2C%2016.8.x-green "React versions supported")]()
+[![react versions supported](https://img.shields.io/badge/React%20versions%3A-Latest-green "React versions supported")]()
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
 
@@ -18,7 +18,7 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 
 
 ## Further reading
-- [Blog post about this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
+- [About this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
 
 ---
 Feel free to edit, contribute and share.
