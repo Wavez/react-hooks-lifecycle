@@ -23,4 +23,4 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 ---
 Feel free to edit, contribute and share.
 
-Made with ❤ by Gal Margalit
+Made with ❤ by [Gal Margalit](https://twitter.com/MargalitGal)
