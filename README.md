@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2020)
+![Maintenance](https://img.shields.io/maintenance/yes/2021)
 [![react versions supported](https://img.shields.io/badge/React%20versions%3A-Latest-green "React versions supported")]()
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
