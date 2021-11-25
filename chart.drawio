@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T14:04:43.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="3gAoGU2OMAYuZ5Ip6nQ-" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T14:05:22.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="EbcKkfEpwefo__3rWGcC" version="15.8.6" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
     <mxGraphModel dx="1351" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="peq8d5gX8DXLt__JmTx_-24" value="&lt;a href=&quot;https://github.com/Wavez/react-hooks-lifecycle&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 12px&quot; face=&quot;Lucida Console&quot;&gt;Wavez/react-hooks-lifecycle&lt;/font&gt;&lt;/a&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="902.5" y="722" width="205" height="15" as="geometry" />
+          <mxGeometry x="900.5" y="722" width="205" height="15" as="geometry" />
         </mxCell>
         <mxCell id="peq8d5gX8DXLt__JmTx_-25" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#000000;strokeColor=#B3B3B3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
