@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T13:49:35.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="PL8-uj_f_gDNWB0iWvPV" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T14:00:22.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Umbpus9DxD1V8R5pGm5n" version="15.8.6" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
-    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,35 +73,6 @@
         <mxCell id="peq8d5gX8DXLt__JmTx_-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg;" parent="1" vertex="1">
           <mxGeometry x="179" y="37" width="95" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="182" y="692.8" width="800" height="76.20000000000005" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-21" value="" style="group" parent="peq8d5gX8DXLt__JmTx_-20" vertex="1" connectable="0">
-          <mxGeometry y="16.200000000000045" width="550" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-22" value="&lt;font style=&quot;line-height: 170%&quot;&gt;Made with&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;by&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="peq8d5gX8DXLt__JmTx_-21" vertex="1">
-          <mxGeometry y="10" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=#ffffff;fontSize=18;fontColor=#000000;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMyLjYgMzEuOCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIuNiAzMS44OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojMTgxNjE2O30mI3hhOzwvc3R5bGU+JiN4YTs8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTYuMywwQzcuMywwLDAsNy4zLDAsMTYuM2MwLDcuMiw0LjcsMTMuMywxMS4xLDE1LjVjMC44LDAuMSwxLjEtMC40LDEuMS0wLjhjMC0wLjQsMC0xLjQsMC0yLjggIGMtNC41LDEtNS41LTIuMi01LjUtMi4yYy0wLjctMS45LTEuOC0yLjQtMS44LTIuNGMtMS41LTEsMC4xLTEsMC4xLTFjMS42LDAuMSwyLjUsMS43LDIuNSwxLjdjMS41LDIuNSwzLjgsMS44LDQuNywxLjQgIGMwLjEtMS4xLDAuNi0xLjgsMS0yLjJjLTMuNi0wLjQtNy40LTEuOC03LjQtOC4xYzAtMS44LDAuNi0zLjIsMS43LTQuNEM3LjQsMTAuNyw2LjgsOSw3LjcsNi44YzAsMCwxLjQtMC40LDQuNSwxLjcgIGMxLjMtMC40LDIuNy0wLjUsNC4xLTAuNWMxLjQsMCwyLjgsMC4yLDQuMSwwLjVjMy4xLTIuMSw0LjUtMS43LDQuNS0xLjdjMC45LDIuMiwwLjMsMy45LDAuMiw0LjNjMSwxLjEsMS43LDIuNiwxLjcsNC40ICBjMCw2LjMtMy44LDcuNi03LjQsOGMwLjYsMC41LDEuMSwxLjUsMS4xLDNjMCwyLjIsMCwzLjksMCw0LjVjMCwwLjQsMC4zLDAuOSwxLjEsMC44YzYuNS0yLjIsMTEuMS04LjMsMTEuMS0xNS41ICBDMzIuNiw3LjMsMjUuMywwLDE2LjMsMHoiLz4mI3hhOzwvc3ZnPg==;" parent="peq8d5gX8DXLt__JmTx_-21" vertex="1">
-          <mxGeometry x="506" y="8" width="27.675" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP6mhXBnPZrxiyDEznI-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Heart.svg;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="peq8d5gX8DXLt__JmTx_-21">
-          <mxGeometry x="62" y="17.559999999999945" width="14" height="13.13" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;span style=&quot;font-family: &amp;#34;lucida console&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;&lt;u&gt;Gal Margalit&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" link="https://twitter.com/MargalitGal" linkTarget="_blank" id="yjP6mhXBnPZrxiyDEznI-9">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="peq8d5gX8DXLt__JmTx_-21">
-            <mxGeometry x="97" y="9" width="90" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-24" value="&lt;a href=&quot;https://github.com/Wavez/react-hooks-lifecycle&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 12px&quot; face=&quot;Lucida Console&quot;&gt;Wavez/react-hooks-lifecycle&lt;/font&gt;&lt;/a&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;" parent="peq8d5gX8DXLt__JmTx_-20" vertex="1">
-          <mxGeometry x="540.5" y="29.200000000000045" width="205" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-25" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#000000;strokeColor=#B3B3B3;" parent="peq8d5gX8DXLt__JmTx_-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2" y="9" as="sourcePoint" />
-            <mxPoint x="748" y="9.200000000000045" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#usememo&quot;&gt;useMemo()&lt;/a&gt;&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" tooltip="https://reactjs.org/docs/hooks-reference.html#usememo" id="peq8d5gX8DXLt__JmTx_-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;gradientColor=#E8F1FF;" parent="1" vertex="1">
             <mxGeometry x="260" y="236" width="90" height="30" as="geometry" />
@@ -119,12 +90,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjP6mhXBnPZrxiyDEznI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.275;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=28;fontColor=#007FFF;strokeColor=#FF3333;" edge="1" parent="1" source="peq8d5gX8DXLt__JmTx_-32" target="peq8d5gX8DXLt__JmTx_-28">
+        <mxCell id="yjP6mhXBnPZrxiyDEznI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.26;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=28;fontColor=#007FFF;strokeColor=#FF3333;endArrow=classic;endFill=1;endSize=6;targetPerimeterSpacing=0;" edge="1" parent="1" source="peq8d5gX8DXLt__JmTx_-32">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789.4" y="329.28" as="targetPoint" />
             <Array as="points">
               <mxPoint x="750" y="310" />
               <mxPoint x="750" y="330" />
-              <mxPoint x="790" y="330" />
+              <mxPoint x="789" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -203,8 +175,34 @@
         <mxCell id="yjP6mhXBnPZrxiyDEznI-10" value="" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#007FFF;fillColor=none;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="628" y="208" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-28" value="&lt;font color=&quot;#ff2d0d&quot; style=&quot;font-size: 28px&quot; face=&quot;Comic Sans MS&quot;&gt;X&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="779" y="342.5" width="40" height="20" as="geometry" />
+        <mxCell id="yjP6mhXBnPZrxiyDEznI-27" value="&lt;font color=&quot;#ff2d0d&quot; style=&quot;font-size: 22px&quot; face=&quot;Comic Sans MS&quot;&gt;X&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="791" y="314" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-21" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="182" y="709" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-22" value="&lt;font style=&quot;line-height: 170%&quot;&gt;Made with&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;by&amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="peq8d5gX8DXLt__JmTx_-21" vertex="1">
+          <mxGeometry y="10" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=#ffffff;fontSize=18;fontColor=#000000;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMyLjYgMzEuOCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIuNiAzMS44OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojMTgxNjE2O30mI3hhOzwvc3R5bGU+JiN4YTs8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTYuMywwQzcuMywwLDAsNy4zLDAsMTYuM2MwLDcuMiw0LjcsMTMuMywxMS4xLDE1LjVjMC44LDAuMSwxLjEtMC40LDEuMS0wLjhjMC0wLjQsMC0xLjQsMC0yLjggIGMtNC41LDEtNS41LTIuMi01LjUtMi4yYy0wLjctMS45LTEuOC0yLjQtMS44LTIuNGMtMS41LTEsMC4xLTEsMC4xLTFjMS42LDAuMSwyLjUsMS43LDIuNSwxLjdjMS41LDIuNSwzLjgsMS44LDQuNywxLjQgIGMwLjEtMS4xLDAuNi0xLjgsMS0yLjJjLTMuNi0wLjQtNy40LTEuOC03LjQtOC4xYzAtMS44LDAuNi0zLjIsMS43LTQuNEM3LjQsMTAuNyw2LjgsOSw3LjcsNi44YzAsMCwxLjQtMC40LDQuNSwxLjcgIGMxLjMtMC40LDIuNy0wLjUsNC4xLTAuNWMxLjQsMCwyLjgsMC4yLDQuMSwwLjVjMy4xLTIuMSw0LjUtMS43LDQuNS0xLjdjMC45LDIuMiwwLjMsMy45LDAuMiw0LjNjMSwxLjEsMS43LDIuNiwxLjcsNC40ICBjMCw2LjMtMy44LDcuNi03LjQsOGMwLjYsMC41LDEuMSwxLjUsMS4xLDNjMCwyLjIsMCwzLjksMCw0LjVjMCwwLjQsMC4zLDAuOSwxLjEsMC44YzYuNS0yLjIsMTEuMS04LjMsMTEuMS0xNS41ICBDMzIuNiw3LjMsMjUuMywwLDE2LjMsMHoiLz4mI3hhOzwvc3ZnPg==;" parent="peq8d5gX8DXLt__JmTx_-21" vertex="1">
+          <mxGeometry x="686" y="8" width="27.675" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP6mhXBnPZrxiyDEznI-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Heart.svg;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="peq8d5gX8DXLt__JmTx_-21">
+          <mxGeometry x="62" y="17.559999999999945" width="14" height="13.13" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-family: &amp;#34;lucida console&amp;#34; ; font-size: 13px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;&lt;u&gt;Gal Margalit&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" link="https://twitter.com/MargalitGal" linkTarget="_blank" id="yjP6mhXBnPZrxiyDEznI-9">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="peq8d5gX8DXLt__JmTx_-21">
+            <mxGeometry x="97" y="9" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-24" value="&lt;a href=&quot;https://github.com/Wavez/react-hooks-lifecycle&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 12px&quot; face=&quot;Lucida Console&quot;&gt;Wavez/react-hooks-lifecycle&lt;/font&gt;&lt;/a&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="902.5" y="722" width="205" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-25" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#000000;strokeColor=#B3B3B3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184" y="701.8" as="sourcePoint" />
+            <mxPoint x="1040" y="702" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
