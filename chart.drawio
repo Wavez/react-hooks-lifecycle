@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T10:08:03.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="rVNSSsk-J1SKIgAiasop" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T17:15:10.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="pccN7UZfPOIYlO7eNNXs" version="15.8.6" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
     <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
         <mxCell id="peq8d5gX8DXLt__JmTx_-5" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;function () {}&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#E8F1FF;" parent="1" vertex="1">
           <mxGeometry x="210" y="178" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-6" value="Unmounting" style="group;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=18;gradientColor=none;gradientDirection=south;comic=0;glass=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="peq8d5gX8DXLt__JmTx_-6" value="Cleanup" style="group;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;fontSize=18;gradientColor=none;gradientDirection=south;comic=0;glass=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="910" y="131" width="130" height="269" as="geometry" />
         </mxCell>
         <mxCell id="peq8d5gX8DXLt__JmTx_-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&quot;Render phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Pure and has no side&lt;br&gt;effects. May be paused,&lt;br&gt;aborted or restarted by&lt;br&gt;React&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
@@ -56,9 +56,9 @@
         <mxCell id="peq8d5gX8DXLt__JmTx_-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Updating&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600.0037624861264" y="141" width="75.91564927857935" height="20" as="geometry" />
         </mxCell>
-        <UserObject label="" id="peq8d5gX8DXLt__JmTx_-15">
+        <UserObject label="New props" id="peq8d5gX8DXLt__JmTx_-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#E8F1FF;" parent="1" vertex="1">
-            <mxGeometry x="436" y="178" width="94" height="30" as="geometry" />
+            <mxGeometry x="436" y="179" width="94" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="peq8d5gX8DXLt__JmTx_-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -126,9 +126,6 @@
         <mxCell id="uvFVxUhtjcqsa5vKmOB1-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDE0MC43IDMzNC42IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAuNyAzMzQuNjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPiYjeGE7PHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzZFQ0ZGMDt9JiN4YTs8L3N0eWxlPiYjeGE7PGc+JiN4YTsJPGc+JiN4YTsJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zLjUsNTAuM2wzMS42LDYuMWMxLjMsMC4zLDIuNy0wLjYsMi45LTJsMC4zLTEuN2MwLjMtMS4zLTAuNi0yLjctMi0yLjlMNC44LDQzLjdjLTEuMy0wLjMtMi43LDAuNi0yLjksMiAgICBsLTAuMywxLjdDMS4zLDQ4LjcsMi4xLDUwLDMuNSw1MC4zeiIvPiYjeGE7CTwvZz4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMuNSw2Mi44bDMxLjYsNi4xYzEuMywwLjMsMi43LTAuNiwyLjktMmwwLjMtMS43YzAuMy0xLjMtMC42LTIuNy0yLTIuOUw0LjgsNTYuMmMtMS4zLTAuMy0yLjcsMC42LTIuOSwyICAgIGwtMC4zLDEuN0MxLjMsNjEuMiwyLjEsNjIuNSwzLjUsNjIuOHoiLz4mI3hhOwk8L2c+JiN4YTsJPGc+JiN4YTsJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zLjUsNzUuM2wzMS42LDYuMWMxLjMsMC4zLDIuNy0wLjYsMi45LTJsMC4zLTEuN2MwLjMtMS4zLTAuNi0yLjctMi0yLjlMNC44LDY4LjdjLTEuMy0wLjMtMi43LDAuNi0yLjksMiAgICBsLTAuMywxLjdDMS4zLDczLjcsMi4xLDc1LDMuNSw3NS4zeiIvPiYjeGE7CTwvZz4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMuNSw4Ny44bDMxLjYsNi4xYzEuMywwLjMsMi43LTAuNiwyLjktMmwwLjMtMS43YzAuMy0xLjMtMC42LTIuNy0yLTIuOUw0LjgsODEuMmMtMS4zLTAuMy0yLjcsMC42LTIuOSwyICAgIGwtMC4zLDEuN0MxLjMsODYuMiwyLjEsODcuNSwzLjUsODcuOHoiLz4mI3hhOwk8L2c+JiN4YTsJPGc+JiN4YTsJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0zLjUsMTAwLjNsMzEuNiw2LjFjMS4zLDAuMywyLjctMC42LDIuOS0ybDAuMy0xLjdjMC4zLTEuMy0wLjYtMi43LTItMi45TDQuOCw5My43Yy0xLjMtMC4zLTIuNywwLjYtMi45LDIgICAgbC0wLjMsMS43QzEuMyw5OC43LDIuMSwxMDAsMy41LDEwMC4zeiIvPiYjeGE7CTwvZz4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMuNSwxMTIuOGwzMS42LDYuMWMxLjMsMC4zLDIuNy0wLjYsMi45LTJsMC4zLTEuN2MwLjMtMS4zLTAuNi0yLjctMi0yLjlsLTMxLjYtNi4xYy0xLjMtMC4zLTIuNywwLjYtMi45LDIgICAgbC0wLjMsMS43QzEuMywxMTEuMiwyLjEsMTEyLjUsMy41LDExMi44eiIvPiYjeGE7CTwvZz4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMuNSwxMjUuM2wzMS42LDYuMWMxLjMsMC4zLDIuNy0wLjYsMi45LTJsMC4zLTEuN2MwLjMtMS4zLTAuNi0yLjctMi0yLjlsLTMxLjYtNi4xYy0xLjMtMC4zLTIuNywwLjYtMi45LDIgICAgbC0wLjMsMS43QzEuMywxMjMuNywyLjEsMTI1LDMuNSwxMjUuM3oiLz4mI3hhOwk8L2c+JiN4YTsJPGc+JiN4YTsJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xNS40LDM5LjN2MTAuMmg5LjFWMzkuM2M4LjgtMi4xLDE1LjQtMTAsMTUuNC0xOS40QzM5LjgsOC45LDMwLjksMCwxOS45LDBDOC45LDAsMCw4LjksMCwxOS45ICAgIEMwLDI5LjQsNi42LDM3LjMsMTUuNCwzOS4zeiBNNCwxOS45QzQsMTEuMSwxMS4xLDQsMTkuOSw0YzguOCwwLDE1LjksNy4xLDE1LjksMTUuOWMwLDguOC03LjEsMTUuOS0xNS45LDE1LjkgICAgQzExLjEsMzUuOSw0LDI4LjcsNCwxOS45eiIvPiYjeGE7CTwvZz4mI3hhOwk8Zz4mI3hhOwkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE1LjIsMTM1LjRWMTI1aDkuMXYxMC40YzAuMywwLjEsMC4zLTAuNCwwLjEtMC41bDAsMTExLjFjLTAuNSwxNS40LDQuNCwzMC4yLDEyLjQsNDMuM3MyMCwyMy44LDMzLjksMzAuMyAgICBjMTIuMSw1LjcsMjYuOCw4LDM4LjcsMmM5LjgtNSwxNi4zLTE1LDE5LjUtMjUuNWMzLjItMTAuNSwzLjUtMjEuNywzLjgtMzIuN2MtNS40LDUuNy0xMC4zLDExLTE1LjcsMTYuN2MwLjEtMC4zLDAuNC0wLjUsMC43LTAuNSAgICBjOC45LTE0LjksMTAuNy0zMy4xLDUuMS00OS41YzE2LjcsMTkuMiwyMi42LDQ2LjgsMTQsNzAuN2MtNS4yLDE0LjYtMTYuMSwyNy45LTMxLDMyLjNjLTEzLjgsNC4xLTI4LjktMC4xLTQxLjUtNy4xICAgIGMtMTguMi0xMC4xLTMzLTI2LjEtNDEuNi00NWMtOC43LTE4LjktNy02MC45LTctNjAuOUwxNS4yLDEzNS40eiIvPiYjeGE7CTwvZz4mI3hhOzwvZz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
           <mxGeometry x="188" y="33" width="21" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yjP6mhXBnPZrxiyDEznI-5" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0, 0, 0); font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;new props&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;spacing=2;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="443" y="163" width="89" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yjP6mhXBnPZrxiyDEznI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.53;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#007FFF;" parent="1" source="yjP6mhXBnPZrxiyDEznI-10" target="peq8d5gX8DXLt__JmTx_-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -170,11 +167,11 @@
             <mxPoint x="780" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qn97D7aN3kyVjcPedb_y-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Qn97D7aN3kyVjcPedb_y-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="534" y="179" width="404" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" id="Qn97D7aN3kyVjcPedb_y-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#E8F1FF;" vertex="1" parent="Qn97D7aN3kyVjcPedb_y-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#E8F1FF;" parent="Qn97D7aN3kyVjcPedb_y-5" vertex="1">
             <mxGeometry width="320" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -193,11 +190,23 @@
             <mxGeometry x="243.5" y="5" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Qn97D7aN3kyVjcPedb_y-6" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;i&gt;React handles unmount but not cleanup&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="511" width="120" height="60" as="geometry" />
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-1" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;text-align: center ; text-indent: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;i&gt;effects run for every render and not just once. This is why React also cleans up effects from the previous render before running the effects next time&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679.92" y="703.13" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qn97D7aN3kyVjcPedb_y-7" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;i&gt;these hooks support cleanup, should happen inside their return function&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-2" value="clean up phase" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="235" y="530" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-3" value="render phase" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="235" y="550" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-4" value="conditional render" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=default;opacity=70;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="911" y="411" width="120" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn97D7aN3kyVjcPedb_y-7" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;i&gt;These hooks support cleanup inside their return function&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="921" y="469" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
