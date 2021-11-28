@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T18:50:03.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="xBgkF1RjytAC7VF4IPoS" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T18:50:56.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="DvNvWCMJVfe3dhTiF-ui" version="15.8.6" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
     <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -205,8 +205,8 @@
             <mxGeometry x="97" y="4.1200000000000045" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-23" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;i&gt;React will clean up before the effects next run&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="550" y="602" width="170" height="60" as="geometry" />
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-23" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;i&gt;React will clean up&lt;br&gt;before the effects next run&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="599" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
