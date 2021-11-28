@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T18:21:14.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="joIICp-THkzjXyebfFKJ" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T18:29:24.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Llr9a59FWQdwkqcxhc_d" version="15.8.6" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
-    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="peq8d5gX8DXLt__JmTx_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="188" y="131" width="182" height="269" as="geometry" />
+          <mxGeometry x="190" y="131" width="180" height="269" as="geometry" />
         </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Mounting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="peq8d5gX8DXLt__JmTx_-3" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Verdana&quot;&gt;Mounting&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="141" width="38" height="20" as="geometry" />
         </mxCell>
         <mxCell id="peq8d5gX8DXLt__JmTx_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -23,7 +23,7 @@
         <mxCell id="peq8d5gX8DXLt__JmTx_-5" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;function () {}&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#E8F1FF;" parent="1" vertex="1">
           <mxGeometry x="210" y="178" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&quot;Render phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Pure and has no side&lt;br&gt;effects. May be paused,&lt;br&gt;aborted or restarted by&lt;br&gt;React." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+        <mxCell id="peq8d5gX8DXLt__JmTx_-7" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;&quot;Render phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Pure and has no side&lt;br&gt;effects. May be paused,&lt;br&gt;aborted or restarted by&lt;br&gt;React." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="40" y="191" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="peq8d5gX8DXLt__JmTx_-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&quot;Commit phase&quot;&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;Can work with DOM,&lt;br&gt;run side effects,&lt;br&gt;schedule updates.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
@@ -63,7 +63,7 @@
             <mxGeometry x="260" y="236" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-31" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;React updates DOM and refs&lt;/i&gt;&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFF1B8;" parent="1" vertex="1">
+        <mxCell id="peq8d5gX8DXLt__JmTx_-31" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;React updates DOM and refs&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#FFF1B8;" parent="1" vertex="1">
           <mxGeometry x="208" y="461" width="632" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yjP6mhXBnPZrxiyDEznI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#007FFF;" parent="1" source="peq8d5gX8DXLt__JmTx_-32" edge="1">
@@ -143,45 +143,16 @@
             <mxGeometry x="243.5" y="5" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Qn97D7aN3kyVjcPedb_y-7" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;These hooks support cleanup inside their return function&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
+        <mxCell id="Qn97D7aN3kyVjcPedb_y-7" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;i&gt;These hooks support cleanup inside their return function&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="550" y="600" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&quot;Cleanup phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Runs before a&lt;br&gt;component is removed.&lt;br&gt;Prevents memory leaks." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="42" y="640" width="140" height="70" as="geometry" />
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-6" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;&quot;Cleanup phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Runs before a&lt;br&gt;component is removed.&lt;br&gt;Prevents memory leaks." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="42" y="640" width="139" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="182" y="891.8" width="923.5" height="58.200000000000045" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-24" value="&lt;a href=&quot;https://github.com/Wavez/react-hooks-lifecycle&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 12px&quot; face=&quot;Lucida Console&quot;&gt;Wavez/react-hooks-lifecycle&lt;/font&gt;&lt;/a&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-          <mxGeometry x="718.5" y="20.200000000000045" width="205" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-25" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#000000;strokeColor=#B3B3B3;" parent="bXESYanQTJGo6Cj8_ghC-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2" as="sourcePoint" />
-            <mxPoint x="858" y="0.20000000000004547" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-22" value="&lt;font style=&quot;line-height: 170%&quot;&gt;Made with&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-          <mxGeometry y="17.200000000000045" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=#ffffff;fontSize=18;fontColor=#000000;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMyLjYgMzEuOCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIuNiAzMS44OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojMTgxNjE2O30mI3hhOzwvc3R5bGU+JiN4YTs8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTYuMywwQzcuMywwLDAsNy4zLDAsMTYuM2MwLDcuMiw0LjcsMTMuMywxMS4xLDE1LjVjMC44LDAuMSwxLjEtMC40LDEuMS0wLjhjMC0wLjQsMC0xLjQsMC0yLjggIGMtNC41LDEtNS41LTIuMi01LjUtMi4yYy0wLjctMS45LTEuOC0yLjQtMS44LTIuNGMtMS41LTEsMC4xLTEsMC4xLTFjMS42LDAuMSwyLjUsMS43LDIuNSwxLjdjMS41LDIuNSwzLjgsMS44LDQuNywxLjQgIGMwLjEtMS4xLDAuNi0xLjgsMS0yLjJjLTMuNi0wLjQtNy40LTEuOC03LjQtOC4xYzAtMS44LDAuNi0zLjIsMS43LTQuNEM3LjQsMTAuNyw2LjgsOSw3LjcsNi44YzAsMCwxLjQtMC40LDQuNSwxLjcgIGMxLjMtMC40LDIuNy0wLjUsNC4xLTAuNWMxLjQsMCwyLjgsMC4yLDQuMSwwLjVjMy4xLTIuMSw0LjUtMS43LDQuNS0xLjdjMC45LDIuMiwwLjMsMy45LDAuMiw0LjNjMSwxLjEsMS43LDIuNiwxLjcsNC40ICBjMCw2LjMtMy44LDcuNi03LjQsOGMwLjYsMC41LDEuMSwxLjUsMS4xLDNjMCwyLjIsMCwzLjksMCw0LjVjMCwwLjQsMC4zLDAuOSwxLjEsMC44YzYuNS0yLjIsMTEuMS04LjMsMTEuMS0xNS41ICBDMzIuNiw3LjMsMjUuMywwLDE2LjMsMHoiLz4mI3hhOzwvc3ZnPg==;" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-          <mxGeometry x="686" y="15.200000000000045" width="27.675" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP6mhXBnPZrxiyDEznI-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Heart.svg;labelBackgroundColor=none;fillColor=none;" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-          <mxGeometry x="62" y="24.75999999999999" width="14" height="13.13" as="geometry" />
-        </mxCell>
-        <mxCell id="yjP6mhXBnPZrxiyDEznI-30" value="&lt;font style=&quot;line-height: 170%&quot;&gt;by&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-          <mxGeometry x="79" y="17.200000000000045" width="30" height="20" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;font color=&quot;#007fff&quot; face=&quot;Lucida Console&quot;&gt;Gal Margalit&lt;/font&gt;" link="https://twitter.com/MargalitGal" linkTarget="_blank" id="yjP6mhXBnPZrxiyDEznI-31">
-          <mxCell style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;fontStyle=4" parent="bXESYanQTJGo6Cj8_ghC-9" vertex="1">
-            <mxGeometry x="97" y="21.32000000000005" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="bXESYanQTJGo6Cj8_ghC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="bXESYanQTJGo6Cj8_ghC-10" target="peq8d5gX8DXLt__JmTx_-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-10" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;React cleans up effects before their next run&lt;/i&gt;&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-10" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;React cleans up effects before their next run&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="209" y="670" width="631" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bXESYanQTJGo6Cj8_ghC-15" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.377;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -199,6 +170,32 @@
             <mxPoint x="278" y="461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-24" value="&lt;a href=&quot;https://github.com/Wavez/react-hooks-lifecycle&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 12px&quot; face=&quot;Lucida Console&quot;&gt;Wavez/react-hooks-lifecycle&lt;/font&gt;&lt;/a&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="702.5" y="780.2" width="205" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-25" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=#000000;strokeColor=#B3B3B3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="192" y="760" as="sourcePoint" />
+            <mxPoint x="863" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-22" value="&lt;font style=&quot;line-height: 170%&quot;&gt;Made with&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="190" y="777.2" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="peq8d5gX8DXLt__JmTx_-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;gradientColor=#ffffff;fontSize=18;fontColor=#000000;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDMyLjYgMzEuOCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzIuNiAzMS44OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojMTgxNjE2O30mI3hhOzwvc3R5bGU+JiN4YTs8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTYuMywwQzcuMywwLDAsNy4zLDAsMTYuM2MwLDcuMiw0LjcsMTMuMywxMS4xLDE1LjVjMC44LDAuMSwxLjEtMC40LDEuMS0wLjhjMC0wLjQsMC0xLjQsMC0yLjggIGMtNC41LDEtNS41LTIuMi01LjUtMi4yYy0wLjctMS45LTEuOC0yLjQtMS44LTIuNGMtMS41LTEsMC4xLTEsMC4xLTFjMS42LDAuMSwyLjUsMS43LDIuNSwxLjdjMS41LDIuNSwzLjgsMS44LDQuNywxLjQgIGMwLjEtMS4xLDAuNi0xLjgsMS0yLjJjLTMuNi0wLjQtNy40LTEuOC03LjQtOC4xYzAtMS44LDAuNi0zLjIsMS43LTQuNEM3LjQsMTAuNyw2LjgsOSw3LjcsNi44YzAsMCwxLjQtMC40LDQuNSwxLjcgIGMxLjMtMC40LDIuNy0wLjUsNC4xLTAuNWMxLjQsMCwyLjgsMC4yLDQuMSwwLjVjMy4xLTIuMSw0LjUtMS43LDQuNS0xLjdjMC45LDIuMiwwLjMsMy45LDAuMiw0LjNjMSwxLjEsMS43LDIuNiwxLjcsNC40ICBjMCw2LjMtMy44LDcuNi03LjQsOGMwLjYsMC41LDEuMSwxLjUsMS4xLDNjMCwyLjIsMCwzLjksMCw0LjVjMCwwLjQsMC4zLDAuOSwxLjEsMC44YzYuNS0yLjIsMTEuMS04LjMsMTEuMS0xNS41ICBDMzIuNiw3LjMsMjUuMywwLDE2LjMsMHoiLz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
+          <mxGeometry x="670" y="775.2" width="27.675" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP6mhXBnPZrxiyDEznI-8" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Heart.svg;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="252" y="784.76" width="14" height="13.13" as="geometry" />
+        </mxCell>
+        <mxCell id="yjP6mhXBnPZrxiyDEznI-30" value="&lt;font style=&quot;line-height: 170%&quot;&gt;by&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=13;fontColor=#000000;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="269" y="777.2" width="30" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font color=&quot;#007fff&quot; face=&quot;Lucida Console&quot;&gt;Gal Margalit&lt;/font&gt;" link="https://twitter.com/MargalitGal" linkTarget="_blank" id="yjP6mhXBnPZrxiyDEznI-31">
+          <mxCell style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
+            <mxGeometry x="287" y="781.32" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
