@@ -1,7 +1,4 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2022)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![react versions supported](https://img.shields.io/badge/React%20versions%3A-Latest-success "React versions supported")]()
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
@@ -24,10 +21,6 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 ## Further reading
 - [About this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
 
----
-Feel free to edit, contribute and share.
-
-Made with ❤ by [Gal Margalit](https://twitter.com/MargalitGal)
 
 ## Contributors ✨
 
@@ -47,4 +40,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!  
