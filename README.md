@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Wavez"><img src="https://avatars.githubusercontent.com/u/2171199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Margalit</b></sub></a><br /><a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Code">💻</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Documentation">📖</a> <a href="#content-Wavez" title="Content">🖋</a> <a href="#maintenance-Wavez" title="Maintenance">🚧</a> <a href="#design-Wavez" title="Design">🎨</a> <a href="#blog-Wavez" title="Blogposts">📝</a> <a href="#projectManagement-Wavez" title="Project Management">📆</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/pulls?q=is%3Apr+reviewed-by%3AWavez" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/albseb/"><img src="https://avatars.githubusercontent.com/u/12158859?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Albert Sebastian</b></sub></a><br /><a href="#ideas-albseb511" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/issues?q=author%3Aalbseb511" title="Bug reports">🐛</a> <a href="#question-albseb511" title="Answering Questions">💬</a> <a href="#example-albseb511" title="Examples">💡</a></td>
   </tr>
 </table>
 
