@@ -1,4 +1,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2022)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![react versions supported](https://img.shields.io/badge/React%20versions%3A-Latest-success "React versions supported")]()
 [![GitHub stars](https://img.shields.io/github/stars/Wavez/react-hooks-lifecycle)](https://github.com/Wavez/react-hooks-lifecycle/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
@@ -25,3 +28,23 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 Feel free to edit, contribute and share.
 
 Made with ❤ by [Gal Margalit](https://twitter.com/MargalitGal)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Wavez"><img src="https://avatars.githubusercontent.com/u/2171199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Margalit</b></sub></a><br /><a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Code">💻</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Documentation">📖</a> <a href="#content-Wavez" title="Content">🖋</a> <a href="#maintenance-Wavez" title="Maintenance">🚧</a> <a href="#design-Wavez" title="Design">🎨</a> <a href="#blog-Wavez" title="Blogposts">📝</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

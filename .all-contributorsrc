@@ -1,0 +1,29 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Wavez",
+      "name": "Gal Margalit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2171199?v=4",
+      "profile": "https://github.com/Wavez",
+      "contributions": [
+        "code",
+        "doc",
+        "content",
+        "maintenance",
+        "design",
+        "blog"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-hooks-lifecycle",
+  "projectOwner": "Wavez",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
