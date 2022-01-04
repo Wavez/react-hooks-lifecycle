@@ -20,6 +20,18 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "albseb511",
+      "name": "Albert Sebastian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12158859?v=4",
+      "profile": "https://www.linkedin.com/in/albseb/",
+      "contributions": [
+        "ideas",
+        "bug",
+        "question",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
