@@ -32,6 +32,15 @@
         "question",
         "example"
       ]
+    },
+    {
+      "login": "eladcandroid",
+      "name": "Elad Cohen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13297000?v=4",
+      "profile": "https://github.com/eladcandroid",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
