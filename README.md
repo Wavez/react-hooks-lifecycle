@@ -31,7 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Wavez"><img src="https://avatars.githubusercontent.com/u/2171199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Margalit</b></sub></a><br /><a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Code">💻</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Documentation">📖</a> <a href="#content-Wavez" title="Content">🖋</a> <a href="#maintenance-Wavez" title="Maintenance">🚧</a> <a href="#design-Wavez" title="Design">🎨</a> <a href="#blog-Wavez" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/Wavez"><img src="https://avatars.githubusercontent.com/u/2171199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gal Margalit</b></sub></a><br /><a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Code">💻</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/commits?author=Wavez" title="Documentation">📖</a> <a href="#content-Wavez" title="Content">🖋</a> <a href="#maintenance-Wavez" title="Maintenance">🚧</a> <a href="#design-Wavez" title="Design">🎨</a> <a href="#blog-Wavez" title="Blogposts">📝</a> <a href="#projectManagement-Wavez" title="Project Management">📆</a> <a href="https://github.com/Wavez/react-hooks-lifecycle/pulls?q=is%3Apr+reviewed-by%3AWavez" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 

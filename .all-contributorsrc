@@ -16,7 +16,9 @@
         "content",
         "maintenance",
         "design",
-        "blog"
+        "blog",
+        "projectManagement",
+        "review"
       ]
     }
   ],
