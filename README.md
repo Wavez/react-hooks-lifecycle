@@ -4,27 +4,26 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MargalitGal?label=Follow%20@MargalitGal&style=social)](https://twitter.com/MargalitGal)
 
 # React Hooks Lifecycle Diagram ⚛️ 🪝 ⏳ #
-tldr;
-## [View the interactive diagram here](https://wavez.github.io/react-hooks-lifecycle/) ##
-### Functional components lifecycle explained ###
-
-I made this diagram following [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and its latter react [implementation](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) about the lifecycle of the now "old" 👴 Class Components.
-I wanted to have a diagram exactly like that but for React Hooks - so... I made one! and kept the style for familiraty.  
-
-The diagram is made using [draw.io](https://draw.io).
-I will update the diagram accordingly when react will introduce more new hooks, as they intend.
+[View the interactive diagram](https://wavez.github.io/react-hooks-lifecycle/)  
+  
 <a href="https://wavez.github.io/react-hooks-lifecycle">
   <img src="https://raw.githubusercontent.com/Wavez/react-hooks-lifecycle/master/screenshot.jpg" />
 </a>
 
+## 💡 Functional components lifecycle explained ##
 
-## Further reading
+This diagram is made using [draw.io](https://draw.io)
+and will be updated when react will introduce new hooks.  
+
+This diagram was inspired by [Dan Abramov's tweet](https://twitter.com/dan_abramov/status/981712092611989509) (and its latter react [implementation](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)) of the now "old" 👴 Class Components lifecycle.
+
+##  📖  Further reading
 - [About this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
 - [React hooks flow](https://github.com/donavon/hook-flow)
 
 
-## Contributors ✨
-
+## 🤗  Contributors
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!  
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -43,4 +42,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!  
+
