@@ -20,6 +20,7 @@ I will update the diagram accordingly when react will introduce more new hooks, 
 
 ## Further reading
 - [About this repo](https://medium.com/@galmargalit/react-function-components-hooks-lifecycle-diagram-14f76e0a5988)  
+- [React hooks flow](https://github.com/donavon/hook-flow)
 
 
 ## Contributors ✨
