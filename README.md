@@ -24,8 +24,8 @@ This diagram was inspired by [Dan Abramov's tweet](https://twitter.com/dan_abram
 
 
 ## 🤗  Contributors
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-[Contributions](https://allcontributors.org/docs/en/emoji-key) of any kind welcome!  
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji legend](https://allcontributors.org/docs/en/emoji-key).  
+Contributions of any kind are welcome!
 Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/eladcandroid"><img src="https://avatars.githubusercontent.com/u/13297000?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Elad Cohen</b></sub></a><br /><a href="https://github.com/Wavez/react-hooks-lifecycle/issues?q=author%3Aeladcandroid" title="Bug reports">🐛</a></td>
   </tr>
 </table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
