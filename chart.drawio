@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T13:31:51.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="l3nKBVJ09AUcdO4x8WhM" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T13:58:01.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="m5fkYFvGFGX52Cqj8YcM" version="18.0.2" type="github">
   <diagram id="4Y_KsI118iPX1C1HI_qV" name="Page-1">
-    <mxGraphModel dx="652" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,17 +24,6 @@
         </mxCell>
         <mxCell id="peq8d5gX8DXLt__JmTx_-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="210" y="410" width="890" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="peq8d5gX8DXLt__JmTx_-18" target="bXESYanQTJGo6Cj8_ghC-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="557" y="610" />
-              <mxPoint x="557" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="peq8d5gX8DXLt__JmTx_-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#C8E8C5;" parent="1" vertex="1">
-          <mxGeometry x="242" y="643" width="788" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nEosuIE1Gz7qf68qQpf4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="peq8d5gX8DXLt__JmTx_-26">
           <mxGeometry relative="1" as="geometry">
@@ -65,11 +54,6 @@
         <UserObject label="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#usecallback&quot;&gt;useCallback()&lt;/a&gt;&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" tooltip="https://reactjs.org/docs/hooks-reference.html#usecallback" id="peq8d5gX8DXLt__JmTx_-32">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;gradientColor=#E8F1FF;" parent="1" vertex="1">
             <mxGeometry x="707.92" y="246" width="124" height="30" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#useeffect&quot;&gt;useEffect()&lt;/a&gt;&amp;nbsp;&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" tooltip="https://reactjs.org/docs/hooks-reference.html#useeffect" id="peq8d5gX8DXLt__JmTx_-42">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-            <mxGeometry x="360" y="587" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="yjP6mhXBnPZrxiyDEznI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.68;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#007FFF;" parent="1" source="yjP6mhXBnPZrxiyDEznI-10" target="peq8d5gX8DXLt__JmTx_-31" edge="1">
@@ -112,14 +96,6 @@
         <mxCell id="bXESYanQTJGo6Cj8_ghC-6" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;&quot;Cleanup phase&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Runs before a&lt;br&gt;component is removed.&lt;br&gt;Prevents memory leaks." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="42" y="640" width="139" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.399;entryY=0.986;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;entryPerimeter=0;" parent="1" source="bXESYanQTJGo6Cj8_ghC-10" target="peq8d5gX8DXLt__JmTx_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-10" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;React cleans up effects&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="241" y="760" width="631" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="bXESYanQTJGo6Cj8_ghC-15" value="" style="endArrow=classic;html=1;strokeColor=#000000;entryX=0.377;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="557.29" y="511" as="sourcePoint" />
@@ -141,8 +117,8 @@
             <mxPoint x="900" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXESYanQTJGo6Cj8_ghC-23" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;i&gt;React will clean up&lt;br&gt;before the effects&#39; next run&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="682" y="599" width="170" height="60" as="geometry" />
+        <mxCell id="bXESYanQTJGo6Cj8_ghC-23" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot; style=&quot;color: rgb(0 , 0 , 0) ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;&lt;i&gt;React will clean up&amp;nbsp;before the effects&#39; next run&lt;/i&gt;&lt;/span&gt;&lt;/h3&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="610" y="610" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bXESYanQTJGo6Cj8_ghC-22" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="210" y="785.2" width="237.5" height="27" as="geometry" />
@@ -183,7 +159,7 @@
           <mxGeometry x="820.92" y="796.12" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hH7rcRju_cW_Q0aul2PL-3" value="&lt;h4 id=&quot;usedeferredvalue&quot; style=&quot;margin: 0px ; padding: 0px ; box-sizing: inherit ; font-size: 20px ; color: rgb(109 , 109 , 109) ; line-height: 1.3 ; font-weight: 400 ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;browser paint&lt;/h4&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="603" width="190" height="40" as="geometry" />
+          <mxGeometry x="390" y="619" width="190" height="40" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#useeffect&quot;&gt;useTransition()&lt;/a&gt;&amp;nbsp;&lt;/code&gt;&lt;/h3&gt;&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code&gt;&lt;font size=&quot;1&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#uselayouteffect&quot;&gt;&lt;/a&gt;&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" tooltip="https://reactjs.org/docs/hooks-reference.html#uselayouteffect" link="https://reactjs.org/docs/hooks-reference.html#usetransition" linkTarget="_blank" id="hH7rcRju_cW_Q0aul2PL-4">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -217,6 +193,25 @@
             <mxGeometry x="308.75" y="545" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="nEosuIE1Gz7qf68qQpf4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=13;" edge="1" parent="1" target="nEosuIE1Gz7qf68qQpf4-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEosuIE1Gz7qf68qQpf4-6" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-weight: normal&quot;&gt;React cleans up effects&lt;/code&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="592" width="630" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="nEosuIE1Gz7qf68qQpf4-10" value="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;br&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="659" width="630" height="31" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;h3 id=&quot;static-getderivedstatefromprops&quot;&gt;&lt;code style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-reference.html#useeffect&quot;&gt;useEffect()&lt;/a&gt;&amp;nbsp;&lt;/font&gt;&lt;/code&gt;&lt;/h3&gt;" tooltip="https://reactjs.org/docs/hooks-reference.html#useeffect" id="peq8d5gX8DXLt__JmTx_-42">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+            <mxGeometry x="282" y="659" width="40" height="27" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nEosuIE1Gz7qf68qQpf4-11" value="&lt;i&gt;Asynchronous.&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Supports cleanup inside its return function&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="420" y="662" width="310" height="39" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
